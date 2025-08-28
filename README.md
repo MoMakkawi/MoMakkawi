@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-- 🌱 I’m currently looking for a challenging opportunity while studying for an MSc in IoT.
+- 🌱 I’m currently looking for a challenging opportunity while studying for an MSc in IoT at [IMT Atlantique](https://www.imt-atlantique.fr/en).
 - 💸 I worked as an intermediate back-end engineer at [@MOOLA Solutions Financial Technology Company](https://moolapay.io/en).
 - 😎 I worked as a software engineer for nearly a year at [@Marketing Trend](https://marketingtrend.net/) company where I achieved timely and cost-effective solutions in all SDLC stages, contributed on [GitLab](http://gitlab.com/MoMakkawi).
 - 🔭 I worked as a freelancer for about two and a half years and contributed some of my work [here](https://github.com/MoMakkawi?tab=repositories).
